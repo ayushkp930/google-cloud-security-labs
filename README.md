@@ -21,18 +21,16 @@ All labs are performed in Google Cloud environments and documented with steps an
 
 ## 📂 Repository Structure
 
+```
 google-cloud-security-labs
 │
-├── web-security-scanner-xss
-│   ├── README.md
-│   └── screenshots
-│       ├── 01-gcp-console-project.png
-│       ├── 02-vm-instance-created.png
-│       ├── 03-cloud-shell-commands.png
-│       ├── 04-ssh-vm-deployment.png
-│       ├── 05-vulnerable-app-running.png
-│       ├── 06-xss-injection-demo.png
-│       ├── etc.
+├── 01-gcp-web-security-scanner-xss-lab
+├── 02-cloud-armor-geoblocking
+├── 03-ngfw-policy-validation
+├── 04-cloud-armor-threat-detection
+├── 05-gke-cluster-hardening
+└── README.md
+```
 
 Each lab folder contains:
 
