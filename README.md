@@ -1,21 +1,20 @@
 # ☁️ Google Cloud Security Labs
 
-Hands-on cloud security labs performed on Google Cloud Platform (GCP) to practice vulnerability detection, secure configuration, and cloud infrastructure protection.
+This repository contains hands-on security labs performed on **Google Cloud Platform (GCP)** to practice cloud security concepts, vulnerability identification, and secure infrastructure configuration.
 
-This repository documents practical security experiments including vulnerability scanning, network security controls, Kubernetes hardening, and cloud threat detection.
+The purpose of this repository is to document practical cloud security experiments and build real-world security skills through hands-on labs.
 
 ---
 
 ## 🎯 Objective
 
-The goal of this repository is to build practical skills in:
+The main goals of this repository are:
 
-- Cloud security practices
-- Vulnerability identification and remediation
-- Secure cloud infrastructure deployment
-- Understanding real-world attack surfaces
-
-All labs are performed in Google Cloud environments and documented with steps and screenshots.
+- Practice cloud security concepts
+- Identify and understand security vulnerabilities
+- Implement remediation techniques
+- Learn secure cloud configuration practices
+- Document practical cloud security labs
 
 ---
 
@@ -24,32 +23,39 @@ All labs are performed in Google Cloud environments and documented with steps an
 ```
 google-cloud-security-labs
 │
-├── 01-gcp-web-security-scanner-xss-lab
-├── 02-cloud-armor-geoblocking
-├── 03-ngfw-policy-validation
-├── 04-cloud-armor-threat-detection
-├── 05-gke-cluster-hardening
+├── lab-folder
+│   ├── README.md
+│   └── screenshots
+│       ├── screenshot1.png
+│       ├── screenshot2.png
+│       └── screenshot3.png
+│
+├── another-lab-folder
+│   ├── README.md
+│   └── screenshots
+│
 └── README.md
 ```
 
 Each lab folder contains:
 
-- Lab documentation
-- Commands used
-- Security concepts
-- Screenshots
+- **README.md** → Lab documentation and explanation  
+- **screenshots/** → Images demonstrating lab steps and results  
 
 ---
 
-## 🔐 Security Topics Covered
+## 🔐 Topics Covered
 
+This repository focuses on practical labs related to:
+
+- Cloud Security
 - Web Application Security
 - OWASP Vulnerabilities
-- Cloud Network Security
-- Firewall and Threat Detection
-- Kubernetes Security Hardening
+- Network Security
+- Firewall Configuration
+- Kubernetes Security
 - Vulnerability Scanning
-- Cloud Security Monitoring
+- Cloud Threat Detection
 
 ---
 
@@ -57,23 +63,11 @@ Each lab folder contains:
 
 - Google Cloud Platform (GCP)
 - Compute Engine
-- Cloud Armor
-- Web Security Scanner
-- Kubernetes Engine (GKE)
 - Cloud Shell
-- Python Flask
-
----
-
-## 📊 Labs
-
-| Lab | Topic |
-|----|----|
-| 01-gcp-web-security-scanner-xss-lab | XSS Vulnerability Detection using Web Security Scanner |
-| 02-cloud-armor-geoblocking | Network Security with Cloud Armor |
-| 03-ngfw-policy-validation | Next Generation Firewall Policy Validation |
-| 04-cloud-armor-threat-detection | Threat Detection using Cloud Armor |
-| 05-gke-cluster-hardening | Hardening Default GKE Cluster Configurations |
+- Web Security Scanner
+- Cloud Armor
+- Kubernetes Engine (GKE)
+- Python / Flask (for vulnerable applications)
 
 ---
 
@@ -81,8 +75,9 @@ Each lab folder contains:
 
 Each lab includes:
 
-- Objective
+- Lab objective
 - Deployment steps
+- Commands used
 - Vulnerability analysis
 - Remediation techniques
 - Screenshots for demonstration
@@ -91,11 +86,12 @@ Each lab includes:
 
 ## 🎓 Purpose
 
-This repository is part of my cybersecurity learning journey focused on:
+This repository is part of my learning journey in:
 
-- Cloud Security Engineering
+- Cloud Security
+- Cybersecurity
 - Vulnerability Management
-- Secure Cloud Architecture
+- Secure Cloud Infrastructure
 
 ---
 
