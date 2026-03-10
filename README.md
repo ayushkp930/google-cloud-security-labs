@@ -1,18 +1,83 @@
-☁️ Google Cloud Security Labs
+# Hi, I'm Ayush 👋
 
-This repository contains hands-on security labs performed on Google Cloud Google Cloud Platform (GCP).
-The goal of these labs is to practice implementing cloud security controls, configuring secure infrastructure, and understanding security best practices in a cloud environment.
+Cybersecurity & Cloud Security Enthusiast focused on building hands-on security skills through practical labs, vulnerability analysis, and cloud security projects.
 
-These exercises demonstrate practical experience with identity management, network security, monitoring, and threat detection within Google Cloud.
+---
 
-🎯 Objectives
+## 🔐 Areas of Interest
 
-Learn and implement cloud security best practices
+- Cybersecurity
+- Cloud Security
+- DevSecOps
+- Vulnerability Assessment
+- Security Automation
 
-Configure secure Identity and Access Management (IAM) policies
+---
 
-Secure virtual networks and firewall rules
+## ☁️ Cloud Security Learning
 
-Monitor cloud resources and detect security events
+I actively practice cloud security through hands-on labs and projects using **Google Cloud Platform**. My work focuses on identifying vulnerabilities, implementing secure configurations, and understanding real-world attack surfaces.
 
-Gain practical experience with Google Cloud security tools
+---
+
+## 🧪 Practical Security Work
+
+My repositories contain:
+
+- Cloud security labs
+- Vulnerability scanning experiments
+- OWASP vulnerability demonstrations
+- Security configuration labs
+- DevSecOps practice projects
+
+---
+
+## 🛠 Tools & Technologies
+
+- Google Cloud Platform (GCP)
+- Linux
+- Python
+- Git & GitHub
+- Cloud Shell
+- Web Security Scanner
+- OWASP Security Practices
+
+---
+
+## 📂 Featured Repository
+
+### Google Cloud Security Labs
+
+A collection of hands-on security labs including:
+
+- Web Security Scanner
+- XSS Vulnerability Analysis
+- Cloud Infrastructure Security
+- Network Security Experiments
+
+---
+
+## 📊 Learning Platforms
+
+- TryHackMe (Cybersecurity Practice)
+- Google Cloud Skills Boost (Cloud Labs)
+- GitHub Projects (Hands-on Security Work)
+
+---
+
+## 🎯 Current Focus
+
+- Cloud Security Engineering
+- DevSecOps Security Practices
+- Vulnerability Detection & Remediation
+- Secure Cloud Infrastructure
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com
+
+---
+
+⭐ Building practical cybersecurity skills one lab at a time.
